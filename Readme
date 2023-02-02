@@ -1,1 +1,7 @@
+A project to store a movie list with name, rating and if it was watched before.
+class Movie - models a movie which includes
+- movie name
+- movie rating (G, PG, PG-13, R)
+- watched - the number of times the movie has been watched
 
+class Movies - models a collection of movie objects
